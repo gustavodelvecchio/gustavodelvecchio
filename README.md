@@ -1,5 +1,6 @@
 - 👋 Oi, me chamo Gustavo, sou formado em Sistemas de informação | PUCPR
 - ✨ e também pós graduado em Gestão e Planejamento de Negócios | PUCPR
+- ⏰ Já trabalhei com analise e desenvolvimento na linguagem COBOL | VisualAge 
 - 🌱 Atualmente estudo HTML | CSS | JAVASCRIPT | JQUERY | BOOTSTRAP | REACT | REACT NATIVE | FIREBASE | NODE JS | MONGO DB
 - 📫 Você pode me encontrar no linken em shorturl.at/hkDQ4
 
