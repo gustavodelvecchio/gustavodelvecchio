@@ -1,7 +1,7 @@
 - 👋 Oi, me chamo Gustavo, sou formado em Sistemas de informação | PUCPR
 - ✨ e também pós graduado em Gestão e Planejamento de Negócios | PUCPR
 - ⏰ Já trabalhei com analise e desenvolvimento utilizando COBOL | VisualAge | DB2
-- 🛠️ E tambem empreendi na área de transportes de mercadorias | assistência técnica | Mineração de criptomoedas
+- 🛠️ E tambem empreendi na área de transporte de mercadorias | assistência técnica | Mineração de criptomoedas
 - 🌱 Atualmente estudo HTML | CSS | JAVASCRIPT | JQUERY | BOOTSTRAP | REACT | REACT NATIVE | FIREBASE | NODE JS | MONGO DB
 - 📫 Você pode me encontrar no linken em https://www.linkedin.com/in/gustavo-del-vecchio-063997239/
 
